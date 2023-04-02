@@ -15,9 +15,7 @@ public class HW3 {
     }
 
 
-
-
-    public static void main (String []arg){
-        System.out.println(longerWord("he","h","hi" ));
+    public static void main(String[] arg) {
+        System.out.println(longerWord("he", "h", "hi"));
     }
 }
